@@ -4,7 +4,7 @@ I'm Alex Nakagawa (he/him)-a data scientist and software engineer.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexnakagawa&theme=dracula&hide=ruby,jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexnakagawa&theme=dracula&hide=ruby,css" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alexnakagawa&show_icons=true&count_private=true&theme=dracula&line_height=27" alt="Alex's github stats" />
