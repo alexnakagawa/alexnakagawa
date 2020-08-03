@@ -9,9 +9,16 @@ I'm [Alex Nakagawa](https://alex.urspace.io) (he/him) -- a data scientist and so
 <br />
 <br />
 
-#### Current learning
-* 🌩 FastAPI
-* 📈 neo4j and graph databases
+### Currently working on
+
+💼 data things for [urspace](https://urspace.io)
+<!--🏀 all things technology for the LA Clippers -->
+
+### Current learning
+
+🌩 [FastAPI](https://fastapi.tiangolo.com/)
+📈 [neo4j](https://neo4j.com/) and graph databases
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
