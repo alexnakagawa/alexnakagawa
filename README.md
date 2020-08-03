@@ -16,7 +16,9 @@ I'm Alex Nakagawa(he/him) -- a data scientist and software engineer.
 ### Current learning
 
 🌩 [FastAPI](https://fastapi.tiangolo.com/)
+
 📈 [neo4j](https://neo4j.com/) and graph databases
+
 🌴 the theory behind product analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
