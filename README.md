@@ -22,7 +22,7 @@ I'm Alex Nakagawa 🇯🇵 (he/him) -- a data scientist and software engineer.
 🌴 the theory behind product analytics
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=alexnakagawa3&redirect=true">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=alexnakagawa3&cover_image=true" />
+  <img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=alexnakagawa3&cover_image=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
