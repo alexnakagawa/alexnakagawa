@@ -1,13 +1,12 @@
-## Alex Nakagawa #BlackLivesMatter
-
-I'm [Alex Nakagawa](https://alex.urspace.io) (he/him) -- a data scientist and software engineer.
+## [Alex Nakagawa](https://alex.urspace.io) #BlackLivesMatter
 
 <a href="https://twitter.com/nakaflocka3">
   <img align="left" alt="Alex Nakagawa | Twitter" width="21px" src="https://raw.githubusercontent.com/alexnakagawa/alexnakagawa/master/assets/twitter.svg" />
 </a>
 
 <br />
-<br />
+
+I'm Alex Nakagawa(he/him) -- a data scientist and software engineer.
 
 ### Currently working on
 
@@ -18,7 +17,7 @@ I'm [Alex Nakagawa](https://alex.urspace.io) (he/him) -- a data scientist and so
 
 🌩 [FastAPI](https://fastapi.tiangolo.com/)
 📈 [neo4j](https://neo4j.com/) and graph databases
-
+🌴 the theory behind product analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
