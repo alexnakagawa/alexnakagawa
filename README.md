@@ -1,4 +1,4 @@
-## Aloha, I'm [Alex Nakagawa!](https://alex.urspace.io) #BlackLivesMatter
+## こんにちわ, I'm [Alex Nakagawa!](https://alex.urspace.io) #BlackLivesMatter
 
 <a href="https://twitter.com/nakaflocka3">
   <img align="left" alt="Alex Nakagawa | Twitter" width="21px" src="https://raw.githubusercontent.com/alexnakagawa/alexnakagawa/master/assets/twitter.svg" />
@@ -6,7 +6,7 @@
 
 <br />
 
-I'm Alex Nakagawa(he/him) -- a data scientist and software engineer.
+I'm Alex Nakagawa 🇯🇵 (he/him) -- a data scientist and software engineer.
 
 ### Currently working on
 
