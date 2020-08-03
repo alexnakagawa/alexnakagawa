@@ -6,7 +6,7 @@
 
 <br />
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=alexnakagawa3&redirect=true">
-  <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=alexnakagawa3&cover_image=true" />
+  <img align="right" alt="Alex Nakagawa | Spotify Card" width="75px" src="https://spotify-github-profile.vercel.app/api/view?uid=alexnakagawa3&cover_image=true" />
 </a>
 
 I'm Alex Nakagawa 🇯🇵 (he/him) -- a data scientist and software engineer.
