@@ -13,16 +13,15 @@ I'm Alex Nakagawa 🇯🇵 (he/him) -- a data scientist and software engineer.
 
 ### Currently working on
 
-💼 data things for [urspace](https://urspace.io)
+💼  data things for [urspace](https://urspace.io)
 <!--🏀 all things technology for the LA Clippers -->
 
 ### Current learning
 
-🌩 [FastAPI](https://fastapi.tiangolo.com/)
+🌩  [Next.js](https://nextjs.org/)
 
-📈 [neo4j](https://neo4j.com/) and graph databases
+📈  [neo4j](https://neo4j.com/) and graph databases + graph theory
 
-🌴 the theory behind product analytics
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
