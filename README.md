@@ -22,10 +22,11 @@ I'm Alex Nakagawa 🇯🇵 (he/him) -- a data scientist and software engineer.
 
 📈  [neo4j](https://neo4j.com/) and graph databases + graph theory
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alexnakagawa&show_icons=true&count_private=true&theme=dracula&line_height=27" alt="Alex's github stats" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alexnakagawa&show_icons=true&count_private=true&theme=dracula&line_height=27" alt="Alex's github stats" />
+  </a>
+</div>
 
 <a href="https://github.com/alexnakagawa/tools">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
