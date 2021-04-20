@@ -9,7 +9,7 @@
   <img align="right" alt="Alex Nakagawa | Spotify Card" width="175px" src="https://spotify-github-profile.vercel.app/api/view?uid=alexnakagawa3&cover_image=true" />
 </a>
 
-I'm Alex Nakagawa 🇯🇵 (he/him) -- a data scientist and software engineer.
+I'm Alex Nakagawa 🇯🇵 (he/him) -- welcome, stranger!
 
 ### Currently working on
 
