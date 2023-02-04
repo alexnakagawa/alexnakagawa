@@ -11,15 +11,5 @@
 
 I'm Alex Nakagawa 🇯🇵 (he/him) -- welcome, stranger!
 
-### Currently working on
-
-💼  data things for [urspace](https://urspace.io)
-<!--🏀 all things technology for the LA Clippers -->
-
-### Current learning
-
-🌩  [Next.js](https://nextjs.org/)
-
-📈  [neo4j](https://neo4j.com/) and graph databases + graph theory
-
-
+### Currently 
+🏀 all things technology for the front office of the LA Clippers
